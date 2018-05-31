@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content='width=device-width, initial-scale=1'>
+    
+    <title>Wine Trivia</title>
+    <meta name='description' content='Test your wine knowledge!'>
+    
+
+    <link href="https://fonts.googleapis.com/css?family=Noto+Sans" rel="stylesheet">
+    <link href="index.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <header role='banner'>
+      <h1>WINE TRIVIA QUIZ</h1>
+      <ul>
+        <li><h2>Question #: <span id='questionNumber'>0</span> of 10</h2></li>
+        <li><h2>Score: <span id='currentScore'>0</span></h2></li>
+      </ul>
+    </header>
+    
+    <main role='main'>
+      <div class='quizBox'>
+        <h3>Think you know wine?<br>It's time to raise your glass!</h3>
+          <button type="button" class="startButton">Bottoms Up</button>
+      </div>
+    </main>
+    
+    
+    
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="datastore.js"></script>
+    <script src="index.js"></script>
+  </body>
+</html>
