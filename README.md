@@ -1,6 +1,6 @@
-WINE TRIVIA QUIZ APP | THINKFUL 
+WINE TRIVIA QUIZ APP 
 
-This project tests your knowledge about wine in a fun, 10-question interactive quiz.  This was my first project as part of my learning with Thinkful's Full Stack program.
+This project tests your knowledge about wine in a fun, 10-question interactive quiz.  
 
 FUNCTIONALITY:
 
