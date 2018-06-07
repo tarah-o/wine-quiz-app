@@ -1,4 +1,4 @@
-WINE TRIVIA QUIZ APP 
+<strong><p>WINE TRIVIA QUIZ APP</strong> </p>
 
 This project tests your knowledge about wine in a fun, 10-question interactive quiz.  
 
